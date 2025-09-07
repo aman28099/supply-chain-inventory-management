@@ -16,4 +16,3 @@ It provides insights into stock levels, demand trends, and replenishment strateg
 - Power BI (visualization & dashboarding)
 - Supply chain inventory datasets (CSV/Excel)
 
-## 📂 Repository Structure
